@@ -1,0 +1,21 @@
+<resources>
+    <string name="app_name">Bill Please</string>
+    <string name="amount">Amount</string>
+    <string name="enterAmt">Enter amount</string>
+    <string name="vPax">Num of Pax</string>
+    <string name="inPax">Enter number of pax</string>
+    <string name="SvsOn">SVS</string>
+    <string name="SvsOff">No SVS</string>
+    <string name="GstOn">GST</string>
+    <string name="GstOff">NO GST</string>
+    <string name="vDis">Discount (%)</string>
+    <string name="inDis">Enter Discount</string>
+    <string name="cash">Cash</string>
+    <string name="payN">PayNow</string>
+    <string name="split">SPLIT</string>
+    <string name="reset">RESET</string>
+    <string name="tBill">Total Bill:</string>
+    <string name="pPay">Each Pays:</string>
+    <string name="vPhone">Phone number for PayNow</string>
+    <string name="phoneId">Enter phone number</string>
+</resources>
